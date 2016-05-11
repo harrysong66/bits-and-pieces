@@ -1,8 +1,8 @@
 # encoding: utf-8
 
 =begin
-concatenate all text files into a singal html file
-first should put file in order like this
+concatenate all text files into a singal html file.
+People should put file in order like belowing structure.
 -charpter1
   -section1.txt
   -section2.txt
